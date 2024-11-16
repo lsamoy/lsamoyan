@@ -2,8 +2,12 @@ title: Lily Samoyan
 description: Portfolio of an Engineer of all trades
 logo : /img/headshot_circ.png
 navigation:
-  - title: ML Enable Buoys
-    url: /buoy
+  - title: Home
+    url: /buoy/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
