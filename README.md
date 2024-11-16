@@ -1,5 +1,5 @@
 # Mechanical and Aerospace Engineer
-
+For more information on my undergraduate work, visit _https://blogs.gwu.edu/lsamoyan/_
 ## Education
 Masters of Science (M.S.) in Electrical and Computer Engineering (2024-2026)
 Bachelors of Science (B.S.) in Mechanical and Aerospace Engineering (2020-2024)
