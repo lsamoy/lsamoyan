@@ -1,7 +1,10 @@
 title: Lily Samoyan
 description: Portfolio of an Engineer of all trades
 logo : /img/headshot_circ.png
-navigation:
+url: "https://lsamoy.github.io/lsamoyan"
+social_links:
+  linkedin: https://www.linkedin.com/lsamoyan
+header_pages:
   - title: ML Enabled Buoys with Hydrophones
     url: /buoy/
 
