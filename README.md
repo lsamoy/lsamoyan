@@ -23,8 +23,7 @@ Masters of Science (M.S.) in Electrical and Computer Engineering (2024-2026)
  - Team Submarine Support Engineering Intern (Aug 2022 - May 2023)
  - Engineering Intern (May 2022 - Aug 2022)
 
- ## Projects
-
+## Projects
  - **GWU BAJA SAE TEAM**: Designed and manufactured a steering rack, column, and wheel provide a working steering system in competition.
  - **TAK Server Setup**: Worked with docker and an RPI to setup an TAK management platform for all devices within our office.
  - **Dave Brain**: Bought a broken toy cart, added an RPI, camera, microphone, speaker, and wheel motors to SSH into the Pi over the GW enterprise network to drive around campus.
