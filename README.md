@@ -1,8 +1,8 @@
 # Mechanical and Aerospace Engineer
 
 ## Education
-Bachelors of Science (B.S.) in Mechanical and Aerospace Engineering (2020-2024)
 Masters of Science (M.S.) in Electrical and Computer Engineering (2024-2026)
+Bachelors of Science (B.S.) in Mechanical and Aerospace Engineering (2020-2024)
 
 ### Certifications
 - AWS Certified Cloud Practitioner (2024)
