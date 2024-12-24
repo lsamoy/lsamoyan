@@ -5,9 +5,6 @@ url: "https://lsamoy.github.io/lsamoyan"
 baseurl: "/lsamoyan"
 social_links:
   linkedin: https://www.linkedin.com/lsamoyan
-header_pages:
-  - title: ML Enabled Buoys with Hydrophones
-    url: /buoy/
 include:
   - _pages
 
