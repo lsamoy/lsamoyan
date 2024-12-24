@@ -2,7 +2,7 @@
 layout: template
 title: Low Power ML Hydrophones
 filename: sonobuoy.md
-permalink: /buoy/
+permalink: /buoy
 ---
 
 # Low Power ML Hydrophones
@@ -38,6 +38,6 @@ Components:
 
 Assembly/Prototyping:
 
-1. Assembled the 3D printed pieces 
+1. Printed and assembled the 3D printed into the skeleton that will contain all of the electronics for each of the new buoys.
 
 

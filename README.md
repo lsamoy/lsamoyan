@@ -6,7 +6,7 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 ### Professional Projects
  - **TAK Server Setup**: Worked with Docker and an RPI to setup an TAK management platform for all devices within our office. Utilized ZeroTier to setup a subnet for those TAK devices to communicate via corporate prototyping network.
     - **Skills**: Docker, Networking (ZeroTier)
-- **[ML Enabled Sonobuoy](https://lsamoy.github.io/lsamoyan/_pages/sonobuoy.md)**: Assisted with the design, assembly, and testing of an ML enabled sonar buoy.
+- **[ML Enabled Sonobuoy](/lsamoyan/buoy)**: Assisted with the design, assembly, and testing of an ML enabled sonar buoy.
     - **Skills**: Microelectronics, Data Analytics
 
 ### University/Personal
