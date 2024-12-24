@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: template
 title: Low Power ML Hydrophones
+filename: sonobuoy.md
 permalink: /lsamoyan/buoy
 ---
 
