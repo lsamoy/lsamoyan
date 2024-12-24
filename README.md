@@ -4,10 +4,12 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 ## Projects: Click on any project to view more information!
 
 ### Professional Projects
- - **TAK Server Setup**: Worked with Docker and an RPI to setup an TAK management platform for all devices within our office. Utilized ZeroTier to setup a subnet for those TAK devices to communicate via corporate prototyping network.
+ - **[LiFi Secured Subnet](/_pages/lifi_serve.md)**: Configured LiFi enabled AP's on a VLAN to make an HTML page accessible only through that LiFi connection. 
+    - **Skills**: DHCP Client Setup, DNS, Flask, Routing, WSGI, Docker
+ - **[TAK Server Setup](/_pages/tak_serve.md)**: Worked with Docker and an RPI to setup an TAK management platform for all devices within our office. Utilized ZeroTier to setup a subnet for those TAK devices to communicate via corporate prototyping network.
     - **Skills**: Docker, Networking (ZeroTier)
 - **[ML Enabled Sonobuoy](/_pages/sonobuoy.md)**: Assisted with the design, assembly, and testing of an ML enabled sonar buoy.
-    - **Skills**: Microelectronics, Data Analytics
+    - **Skills**: Microelectronics, Data Analytics, Engineering Design
 
 ### University/Personal
  - **GWU BAJA SAE TEAM**: Designed and manufactured a steering rack, column, and wheel provide a working steering system in competition.
