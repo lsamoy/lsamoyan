@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: default
 title: Low Power ML Hydrophones
 filename: sonobuoy.md
 permalink: /buoy
