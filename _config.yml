@@ -2,6 +2,7 @@ title: Lily Samoyan
 description: Portfolio of an Engineer of all trades
 logo : /img/headshot_circ.png
 url: "https://lsamoy.github.io/lsamoyan"
+baseurl: "/lsamoyan"
 social_links:
   linkedin: https://www.linkedin.com/lsamoyan
 header_pages:
