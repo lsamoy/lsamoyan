@@ -2,7 +2,7 @@
 layout: template
 title: Low Power ML Hydrophones
 filename: sonobuoy.md
-permalink: /lsamoyan/buoy
+permalink: /buoy/
 ---
 
 # Low Power ML Hydrophones
@@ -35,5 +35,9 @@ Components:
     - SD Card Holder
     - Solar Charger
     - LiPo Battery
+
+Assembly/Prototyping:
+
+1. Assembled the 3D printed pieces 
 
 
