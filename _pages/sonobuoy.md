@@ -66,21 +66,16 @@ All 5 buoys were built out, with the testing being completed for the solar cap a
 
 Jupyter Notebook > Script
 
-``` import pandas as pd 
+```import pandas as pd 
 import numpy as np
 from matplotlib import pyplot as plt
 import dataframe_image as dfi
 
-# %%
 reference = pd.DataFrame()
 reference["Sonbuoy #"] = ["006", "007", "009", "010"]
 reference["Solar Panel"] = ["Small w/ Cap", "Voltaic 6V", "Wings","Larger w/ Cap"]
 reference["Ground Plate"]= ["Large Square", "Small Square", "Rob DIY", "Large Circle"]
 
-# %% [markdown]
-# # Solar Panel Calculations
-
-# %%
 df = pd.read_csv("/Users/lsamoyan/Library/CloudStorage/OneDrive-In-Q-Tel,Inc/Labs Work/Sonobuoy/006 vs 007 vs 009 vs 010 Battery (%)-1700065788500.csv")
 
         
@@ -89,11 +84,8 @@ df["FSP 007"].fillna(method="ffill", inplace=True)
 df["FSP 009"].fillna(method="ffill", inplace=True)
 df["FSP 010"].fillna(method="ffill", inplace=True)
 
-
-# %%
 df = df.drop(labels=[0, 1, 2], axis=0)
 
-# %%
 quarter = int((len(df["FSP 006"]))/4)
 
 df1 = df[0:quarter]
@@ -103,13 +95,10 @@ df4 = df[quarter*3:-1]
 
 type(df["FSP 006"][3])
 
-# %%
 plt.plot(df1["FSP 006"])
 plt.plot(df1["FSP 007"])
 plt.plot(df1["FSP 009"])
 plt.plot(df1["FSP 010"])
-
-# %%
 
 plt.plot(df2["FSP 006"], label="FSP 006")
 plt.plot(df2["FSP 007"], label="FSP 007")
@@ -121,8 +110,6 @@ plt.ylabel("Battery %")
 plt.legend(loc="best")
 plt.savefig('006 vs 007 vs 009 vs 010 Battery.png')
 
-
-# %%
 mins = [ df2["FSP 006"].min(), df2["FSP 007"].min(), df2["FSP 009"].min(), df2["FSP 010"].min() ] 
 maxminlist = []
 for i in range(len(mins)):
@@ -132,16 +119,11 @@ reference["Solar Panel % Drop"] = maxminlist
 
 reference
 
-# %% [markdown]
-# # Ground Plate Calculations
-
-# %%
 m07 = pd.read_csv()
 m06 = pd.read_csv()
 m09 = pd.read_csv()
 m10 = pd.read_csv()
 
-# %%
 buck06 = len(m06['location'])
 buck07 = len(m07['location'])
 buck09 = len(m09['location'])
@@ -149,7 +131,6 @@ buck10 = len(m10['location'])
 tot = buck06+buck07+buck09+buck10
 print(buck07/tot, tot)
 
-# %%
 sizes = [buck06, buck07, buck09, buck10]
 labels = ['Myriota 006'+' '+str(round(buck06/tot*100, 1))+'%', 'Myriota 007'+' '+str(round(buck07/tot*100,1))+'%', 'Myriota 009'+' '+str(round(buck09/tot*100, 1))+'%', 'Myriota 010'+' '+str(round(buck10/tot*100, 1))+'%']
 
@@ -157,13 +138,10 @@ plt.pie(sizes, labels=labels)
 plt.title("Myriota Bucket Size Percentages")
 plt.savefig('Bucket Size percentages.png')
 
-# %%
 hours = 48+17 #10 am Fri to 4am Monday for buckets
 reference["Myriota Messages Per Hour"] = [round(buck06/hours, 2), round(buck07/hours, 2), round(buck09/hours, 2), round(buck10/hours,2)]
 reference
 
-
-# %%
 x = np.arange(0, 66, 1)
 y06= []
 y07 = []
@@ -179,39 +157,25 @@ for i in range(len(x)):
 for i in range(len(x)):
     y10.append(reference["Myriota Messages Per Hour"][3]*x[i])
         
-
-# %%
 plt.plot(x, y06, label="Myriota 010")
 plt.plot(x, y07, label = "Myriota 007")
 plt.plot(x, y09, label = "Myriota 009")
 plt.plot(x, y10, label= "Myriota 010")
 plt.legend(loc="best")
 
-# %% [markdown]
-# # Exporting Table
-
-# %%
 dfi.export(reference, 'ref.png')
 
-# %% [markdown]
-# # Antenna Comparison - Whip vs Helical
-
-# %%
 helical = pd.read_csv()
 whip = pd.read_csv()
 
-# %%
 buckheli = len(helical['location'])
 buckwhip = len(whip['location'])
 tot_ant = buckheli+buckwhip
 
-# %%
 sizes_ant = [buckheli, buckwhip]
 labels_ant = ['Myriota 010 Helical'+' '+str(round(buckheli/tot_ant*100, 1))+'%', 'Myriota 009 Whip'+' '+str(round(buckwhip/tot_ant*100,1))+'%']
 
 plt.pie(sizes_ant, labels=labels_ant)
 plt.title("Myriota Bucket Size Percentages of Whip vs Helical Antennas")
-plt.savefig('Bucket Size percentages Antennas.png')
-
-# %% ````
+plt.savefig('Bucket Size percentages Antennas.png') ```
 
