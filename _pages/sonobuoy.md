@@ -65,12 +65,11 @@ All 5 buoys were built out, with the testing being completed for the solar cap a
 <img src="img/buoy_table.png" alt="Voltage Drops" style="width: 45%" />
 
 Jupyter Notebook > Script
-`
-# %%
-import pandas as pd
+
+``` import pandas as pd 
 import numpy as np
 from matplotlib import pyplot as plt
-import dataframe_image as dfi 
+import dataframe_image as dfi
 
 # %%
 reference = pd.DataFrame()
@@ -214,6 +213,5 @@ plt.pie(sizes_ant, labels=labels_ant)
 plt.title("Myriota Bucket Size Percentages of Whip vs Helical Antennas")
 plt.savefig('Bucket Size percentages Antennas.png')
 
-# %% 
-`
+# %% ````
 
