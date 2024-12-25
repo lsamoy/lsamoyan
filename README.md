@@ -14,7 +14,7 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 ### University
  - **[SAE GWU BAJA](https://blogs.gwu.edu/lsamoyan/gwu-baja-off-roading-vehicle-adventures/)**: Designed and manufactured a steering rack, column, and wheel provide a working steering system in competition.
     - **Skills**: CAD, Program Management, Manufacturing, Mechanical Analysis
-- **[Senior Capstone](https://blogs.gwu.edu/lsamoyan/gwu-baja-off-roading-vehicle-adventures/)**: Led the design of a off-roading steering system designed for impact. Was team leader and did the total design of the gearbox.
+- **[Senior Capstone](https://blogs.gwu.edu/lsamoyan/senior-capstone-steering-system/)**: Led the design of a off-roading steering system designed for impact. Was team leader and did the total design of the gearbox.
     - **Skills**: CAD, Program Management, Manufacturing, Mechanical Analysis
 
 ### Personal
