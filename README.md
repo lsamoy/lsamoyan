@@ -11,12 +11,16 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 - **[ML Enabled Sonobuoy](/_pages/sonobuoy.md)**: Assisted with the design, assembly, and testing of an ML enabled sonar buoy.
     - **Skills**: Microelectronics, Data Analytics, Engineering Design
 
-### University/Personal
- - **GWU BAJA SAE TEAM**: Designed and manufactured a steering rack, column, and wheel provide a working steering system in competition.
+### University
+ - **[SAE GWU BAJA](https://blogs.gwu.edu/lsamoyan/gwu-baja-off-roading-vehicle-adventures/)**: Designed and manufactured a steering rack, column, and wheel provide a working steering system in competition.
     - **Skills**: CAD, Program Management, Manufacturing, Mechanical Analysis
- - **Dave Brain**: Bought a broken toy cart, added an RPI, camera, microphone, speaker, and wheel motors to SSH into the Pi over the GW enterprise network to drive around campus.
+- **[Senior Capstone](https://blogs.gwu.edu/lsamoyan/gwu-baja-off-roading-vehicle-adventures/)**: Led the design of a off-roading steering system designed for impact. Was team leader and did the total design of the gearbox.
+    - **Skills**: CAD, Program Management, Manufacturing, Mechanical Analysis
+
+### Personal
+ - **[Dave Brain](https://blogs.gwu.edu/lsamoyan/personal-projects/)**: Bought a broken toy cart, added an RPI, camera, microphone, speaker, and wheel motors to SSH into the Pi over the GW enterprise network to drive around campus.
     - **Skills**: Prototyping, Microelectronics, Python
- - **Revolutionizing Campus Transportation**: Salvaged a driveable toy car, ripped out all of the wiring and rewired the vehicle and it's bluetooth system as a way to commute through campus.
+ - **[Revolutionizing Campus Transportation](https://blogs.gwu.edu/lsamoyan/personal-projects/)**: Salvaged a driveable toy car, ripped out all of the wiring and rewired the vehicle and it's bluetooth system as a way to commute through campus.
     - **Skills**: Prototyping, Microelectronics
 
 ## Education
