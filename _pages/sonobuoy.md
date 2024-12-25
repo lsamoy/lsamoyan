@@ -76,7 +76,7 @@ reference["Sonbuoy #"] = ["006", "007", "009", "010"]
 reference["Solar Panel"] = ["Small w/ Cap", "Voltaic 6V", "Wings","Larger w/ Cap"]
 reference["Ground Plate"]= ["Large Square", "Small Square", "Rob DIY", "Large Circle"]
 
-df = pd.read_csv("/Users/lsamoyan/Library/CloudStorage/OneDrive-In-Q-Tel,Inc/Labs Work/Sonobuoy/006 vs 007 vs 009 vs 010 Battery (%)-1700065788500.csv")
+df = pd.read_csv()
 
         
 df["FSP 006"].fillna(method="ffill", inplace=True)
