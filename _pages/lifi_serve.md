@@ -37,7 +37,7 @@ This proved to be difficult and more complex then necessary. It was over enginee
 
 1. Building out the very simple HTML page. In the image below sensitive items are blacked out.
 
-<img src="img/blacked_html.png" alt="HTML page" style="width: 45%" />
+<img src="img/blacked_html.png" alt="HTML page" style="width: 80%" />
 
 2. Building the Flask app.py, and making sure the HTML page looked proper before hosting using Gunicorn.
 
