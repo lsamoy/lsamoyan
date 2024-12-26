@@ -7,7 +7,7 @@ permalink: /buoy
 
 # Low Power ML Hydrophones
 
-<img src="img/sonobuoys.png" alt="Sonobuoys" style="width: 45%" />
+<img src="img/sonobuoys.jpg" alt="Sonobuoys" style="width: 45%" />
 
 Unfortunately, I am unable to share any of the data I worked with. I can share the results and code used for data analytics. 
 
