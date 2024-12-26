@@ -7,7 +7,7 @@ permalink: /buoy
 
 # Low Power ML Hydrophones
 
-<img src="img/sonobuoys.jpg" alt="Sonobuoys" style="width: 45%" />
+<img src="img/sonobuoys.jpg" alt="Sonobuoys" style="width: 70%" />
 
 Unfortunately, I am unable to share any of the data I worked with. I can share the results and code used for data analytics. 
 
@@ -51,22 +51,24 @@ Prototyping/Design:
 2. Designed 4 different solar panel cap configurations with the 6 V solar panels and graphed the results of each cap version against each other. Then calculated the battery drop across all four configurations. The lowest would be the best bet, as it decreased battery decline by the most.
     - The larger panels on a wider cap were a better choice with a 42% drop. The results for all the testing can be seen at the bottom of this page in results.
 
-<img src="img/buoy_voltages.png" alt="Voltage Drops" style="width: 45%" />
+<img src="img/buoy_voltages.png" alt="Voltage Drops" style="width: 60%" />
    
 3. Tested 4 different types of ground planes with a 433 MHz antenna to communicate with the Iridium network. The options were different sizes of squares, a small circle, and a ground plate with copper four copper wires. Found the number of packets/messages sent per hour for each ground plate.
     - The small square cap was the best option. This is due to antenna theory, which states that the ground plane for signal reflection should have a diameter of pi/4 times the wavelength of the signal. This signal broadcasts at ~70cm, meaning a ground plane with a diameter of ~50 cm or 2 inches would be sufficient and ideal.
 
-<img src="img/buoy_buckets.png" alt="Voltage Drops" style="width: 45%" />
+<img src="img/buoy_buckets.png" alt="Voltage Drops" style="width: 60%" />
 
 Results:
 
 All 5 buoys were built out, with the testing being completed for the solar cap and antenna design. A table with more statistical data can be seen below. Additionally, at the bottom of this page all code will be pasted from data analysis ran on the code, with sensitivities removed.
 
-<img src="img/buoy_table.png" alt="Voltage Drops" style="width: 45%" />
+<img src="img/buoy_table.png" alt="Voltage Drops" style="width: 80%" />
 
 Jupyter Notebook > Script
 
-```import pandas as pd 
+```
+
+import pandas as pd 
 import numpy as np
 from matplotlib import pyplot as plt
 import dataframe_image as dfi
@@ -177,5 +179,7 @@ labels_ant = ['Myriota 010 Helical'+' '+str(round(buckheli/tot_ant*100, 1))+'%',
 
 plt.pie(sizes_ant, labels=labels_ant)
 plt.title("Myriota Bucket Size Percentages of Whip vs Helical Antennas")
-plt.savefig('Bucket Size percentages Antennas.png') ```
+plt.savefig('Bucket Size percentages Antennas.png') 
+
+```
 
