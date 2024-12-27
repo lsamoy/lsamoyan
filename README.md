@@ -3,9 +3,11 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 
 <p> Click Below to download my resume. </p>
 
+<div style="text-align: center;">
 <a href="SamoyanL_Resume.pdf" download="SamoyanL_Resume.pdf">
     <img src="img/download_button.png" alt="download" style="width: 20%; text-align:center;">
 </a>
+</div>
 
 ## Projects: Click on any project to view more information!
 
