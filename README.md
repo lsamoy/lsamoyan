@@ -9,6 +9,7 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 </a>
 </div>
 
+
 ## Projects: Click on any project to view more information!
 
 ### Professional Projects
