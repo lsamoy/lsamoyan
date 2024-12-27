@@ -2,12 +2,9 @@
 For more information on my undergraduate work, visit [Undegrad Blog](https://blogs.gwu.edu/lsamoyan/)
 
 <p> Click Below to download my resume. </p>
-<ul class="downloads">
-    <li><a href="lsamoyan/SamoyanL_Resume.pdf">Download <strong>PDF</strong></a></li>
-</ul>
 
-<a href="/SamoyanL_Resume.pdf" download="SamoyanL_Resume.pdf">
-    <img src="/img/download_button.png" alt="download" style="width: 20%; text-align:center;">
+<a href="SamoyanL_Resume.pdf" download="SamoyanL_Resume.pdf">
+    <img src="img/download_button.png" alt="download" style="width: 20%; text-align:center;">
 </a>
 
 ## Projects: Click on any project to view more information!
