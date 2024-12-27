@@ -3,7 +3,7 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
 
 <p> Click Below to download my resume. </p>
 <ul class="downloads">
-    <li><a href="/SamoyanL_Resume.pdf">Download <strong>PDF</strong></a></li>
+    <li><a href="lsamoyan/SamoyanL_Resume.pdf">Download <strong>PDF</strong></a></li>
 </ul>
 
 <a href="/SamoyanL_Resume.pdf" download="SamoyanL_Resume.pdf">
