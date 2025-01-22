@@ -1,4 +1,4 @@
-# Mechanical and Aerospace Engineer
+# B.S. and M.S. in Engineering
 For more information on my undergraduate work, visit [Undegrad Blog](https://blogs.gwu.edu/lsamoyan/)
 
 <div style="text-align: center;">
@@ -19,6 +19,10 @@ For more information on my undergraduate work, visit [Undegrad Blog](https://blo
     - **Skills**: Microelectronics, Data Analytics, Engineering Design
  - **[TAK Server Setup](/_pages/tak_serve.md)**: Worked with Docker and an RPI to setup an TAK management platform for all devices within our office. Utilized ZeroTier to setup a subnet for those TAK devices to communicate via corporate prototyping network.
     - **Skills**: Docker, Networking (ZeroTier)
+ - **[FPV Drones](/_pages/fpv_drone.md)**: I was part of an effort to understand how long it takes to construct and the quality of Ukranian FPV Drones. In this effort, this involved translation of the Ukranian written resources and videos, sourcing the parts, and construction of the drone.
+    - **Skills**: Microelectronics, Firmware, Assembly, 3D Printing, CAD (Solidworks 2023), Mission Planning (Mission Planner, QGroundControl, ArduPilot, Auterion Suite)
+ - **[Test Drones](/_pages/test_drone.md)**: As a prototyper, I worked on the construction of a few regular drones for battery testing purposes of other members of our team. 
+    - **Skills**: Microelectronics, Firmware, Assembly, 3D Printing, CAD (Solidworks 2023), Mission Planning (Mission Planner, QGroundControl, ArduPilot, Auterion Suite)
 
 ### University
  - **[SAE GWU BAJA](https://blogs.gwu.edu/lsamoyan/gwu-baja-off-roading-vehicle-adventures/)**: Designed and manufactured a steering rack, column, and wheel provide a working steering system in competition.
