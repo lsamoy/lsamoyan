@@ -1,7 +1,9 @@
 # B.S. and M.S. in Engineering
 For more information on my undergraduate work, visit [Undegrad Blog](https://blogs.gwu.edu/lsamoyan/)
 
-My name is Lily Samoyan, and I'd like to consider myself a generalist when it comes to engineering. This is not only due to my experience, but where I believe I thrive. Within the engineering deisgn cycle, I believe my strengths are my ability to conceive and prototype a project, innovate and verify projects, while also being able to manage timelines and schedules. I have a passion for innovation and impact, and want my career to be one in which I can make an impact with my work in one way or another. I'm always working on a project of my own as a creative outlet to see what I can do. My penchant for picking up skills and learning new technical talents is reflected in my projects, certifications, and pursuit of further education.
+My name is Lily Samoyan, and I'd like to consider myself a generalist when it comes to engineering. This is not only due to my experience, but where I believe I thrive. Within the engineering deisgn cycle, I believe my strengths are my ability to conceive and prototype a project, innovate and verify projects, while also being able to manage timelines and schedules. 
+
+I have a passion for innovation and impact, and want my career to be one in which I can make an impact with my work in one way or another. I'm always working on a project of my own as a creative outlet to see what I can do. My penchant for picking up skills and learning new technical talents is reflected in my projects, certifications, and pursuit of further education.
 
 
 <div style="text-align: center;">
