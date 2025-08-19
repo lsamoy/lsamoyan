@@ -46,18 +46,23 @@ Masters of Science (M.S.) in Electrical and Computer Engineering (2024-2026)
 Bachelors of Science (B.S.) in Mechanical and Aerospace Engineering (2020-2024)
 
 ### Certifications
-- AWS Certified Cloud Practitioner (2024)
-- FAA UAG-S Certified Pilot, Part 107 (2023)
+ - Procore Certified Project Manager (2025)
+ - AWS Certified Cloud Practitioner (2024)
+ - FAA UAG-S Certified Pilot, Part 107 (2023)
 
 ### Technical Skills
-- Modeling: AutoCAD, Solidworks, Fusion360, Blender3D, STK Modeling
-- Assembly: 3D Printering, Soldering, Machining
-- Computer/Data Science: Python, MATLAB, HTML/CSS, bash
-- Deployment: Docker, AWS services (including C2S), RADIUS network deployment, DHCP server setup
+ - Modeling: AutoCAD, Solidworks, Fusion360, Blender3D, STK Modeling
+ - Assembly: 3D Printering, Soldering, Machining
+ - Computer/Data Science: Python, MATLAB, HTML/CSS, bash
+ - Deployment: Docker, AWS services (including C2S), RADIUS network deployment, DHCP server setup
 
 ## Work Experience
+
+**Amazon Web Services (AWS)**
+ - Project Engineer (Mar 2025 - Present)
+
 **In-Q-Tel (IQT)**
- - Associate Project Engineer (May 2024-Present)
+ - Associate Project Engineer (May 2024 - Feb 2025)
  - Project Engineering / IQT Labs (May 2023 - May 2024)
 
  **Amentum Services Inc.**
